@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindbox", "Mindbox\Mindbox.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindbox.Tests", "Mindbox.Tests\Mindbox.Tests.csproj", "{55AA969E-1C4B-40A9-9965-CEB0E01843F6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{F71DE785-73AF-4BCA-9607-BF5DA2C44801}"
+	ProjectSection(SolutionItems) = preProject
+		SQL задача.txt = SQL задача.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
